@@ -236,6 +236,11 @@ p > img {
   margin: 0 auto;
 }
 
+// Increase logo size
+.site-avatar img {
+  max-width: 200%;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -364,7 +369,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #20C20E;
     }
   }
 }
