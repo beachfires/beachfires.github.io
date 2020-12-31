@@ -64,6 +64,8 @@ h1 {
   font-size: 30px;
   a {
     color: #20C20E;
+    font-weight: 400;
+    font-family: monospace;
   }
 }
 
@@ -342,7 +344,8 @@ p > img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  // font-family: $helveticaNeue;
+  font-family: monospace;
   font-size: 18px;
 
   @include mobile {
