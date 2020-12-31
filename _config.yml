@@ -5,13 +5,13 @@ remote_theme: beachfires/reverie
 #
 
 # Name of your site (displayed in the header)
-#name: s0pht
+name: s0pht
 
 # Name of the author
 author: s0pht Team
 
 # Short bio or description (displayed in the header)
-#description: We hack but can't copy-paste
+description: We hack but can't copy-paste
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/s0pht-white.png
