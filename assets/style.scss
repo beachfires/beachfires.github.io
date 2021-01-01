@@ -238,11 +238,6 @@ p > img {
   margin: 0 auto;
 }
 
-// Increase logo size
-.site-avatar img {
-  max-width: 200%;
-}
-
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -298,9 +293,9 @@ p > img {
 
 .site-avatar {
   float: left;
-  width: 70px;
+  width: 140px;
   height: 70px;
-  margin-right: 15px;
+  //margin-right: 15px;
 
   @include mobile {
     float: none;
