@@ -189,11 +189,13 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  //color: $blue;
+  color: #20C20E;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    //color: $blue;
+    color: #20C20E;
   }
 }
 
